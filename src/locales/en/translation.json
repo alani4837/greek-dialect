@@ -1,0 +1,18 @@
+{
+    "title": "Greek Dialect Translator",
+    "inputLabel": "Enter a modern Greek phrase or word:",
+    "outputLabel": "Translation in selected dialect:",
+    "dialectLabel": "Select a dialect:",
+    "translateButton": "Translate",
+    "translating": "Translating...",
+    "loadingMessage": "Fetching translation...",
+    "emptyInputError": "Please enter a phrase or word to translate.",
+    "translationNotAvailable": "Translation not available for this phrase.",
+    "recentTranslations": "Recent Translations",
+    "dialects": {
+      "ancient": "Ancient Greek",
+      "cypriot": "Cypriot Greek",
+      "pontic": "Pontic Greek",
+      "cretan": "Cretan Greek"
+    }
+  }

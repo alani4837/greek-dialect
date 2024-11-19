@@ -1,0 +1,18 @@
+{
+    "title": "Μεταφραστής Ελληνικών Διαλέκτων",
+    "inputLabel": "Εισάγετε μια φράση ή λέξη στα σύγχρονα ελληνικά:",
+    "outputLabel": "Μετάφραση στην επιλεγμένη διάλεκτο:",
+    "dialectLabel": "Επιλέξτε διάλεκτο:",
+    "translateButton": "Μετάφραση",
+    "translating": "Translating...",
+    "loadingMessage": "Fetching translation...",    
+    "emptyInputError": "Please enter a phrase or word to translate.",
+    "translationNotAvailable": "Translation not available for this phrase.",
+    "recentTranslations": "Recent Translations",
+    "dialects": {
+      "ancient": "Αρχαία Ελληνικά",
+      "cypriot": "Κυπριακά Ελληνικά",
+      "pontic": "Ποντιακά Ελληνικά",
+      "cretan": "Κρητικά Ελληνικά"
+    }
+  }
